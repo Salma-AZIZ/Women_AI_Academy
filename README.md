@@ -1,4 +1,2 @@
-# Women AI Academy - March Bootcamp
-
-
+# Women AI Academy
 
